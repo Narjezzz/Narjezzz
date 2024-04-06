@@ -1,22 +1,23 @@
 <pre>
 
-┌──┤ WHOAMI ├─────────☁☁☁
+┌──┤ WHOAMI |
 │
-├─▣ Narjezzz
+├─▣ Stanislav
 ├─▣ New at web
-├─▣ I am mostly available at Telegram
+├─▣ I am mostly available in telegram
 │
-└───────────────────────────────☁☁☁
+└───────────────────────────────┤
 
-┌──┤ SOCIAL ├─────────☁☁☁
+┌──┤ SOCIAL |
 │
 ├─◈ <a href="https://t.me/reliefwasshort/">Telegram</a>
 │
-└───────────────────────────────☁☁☁
+└───────────────────────────────┤
 
-┌──┤ PROJECTS ├───────☁☁☁
+┌──┤ PROJECTS |
 │
 ├─◈ <a href="https://github.com/narjezz/test-os/">PET-OS</a>
 │
-└───────────────────────────────☁☁☁
+└───────────────────────────────┤
+  
 </pre>
