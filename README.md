@@ -16,7 +16,7 @@
 
 ┌──┤ PROJECTS |
 │
-├─◈ <a href="https://github.com/narjezz/test-os/">PET-OS</a>
+├─◈ <a href="https://github.com/narjezzz/test-os/">PET-OS</a>
 │
 └───────────────────────────────┤
   
