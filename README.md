@@ -3,7 +3,7 @@
 ┌──┤ WHOAMI |
 │
 ├─▣ Stanislav
-├─▣ New at web
+├─▣ Frontend
 ├─▣ I am mostly available in telegram
 │
 └───────────────────────────────┤
